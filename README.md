@@ -73,7 +73,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 id="usage">💡 Utilização</h2>
 
-A aplicação Food Explorer está disponível para uso [aqui](https://food-explorer-frontend-80e47f.netlify.app/).
+A aplicação Food Explorer está disponível para uso [aqui](https://foodexplorer-isabelymartiniano.netlify.app/).
 
 Você também pode executá-la em sua máquina localmente. Certifique-se de ter o ``Node.js`` e o ``npm`` instalados antes de prosseguir com as etapas abaixo:
 
